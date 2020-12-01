@@ -41,6 +41,9 @@ TagManager:
   - 
   - 
   m_SortingLayers:
+  - name: Cave
+    uniqueID: 1262108179
+    locked: 0
   - name: Default
     uniqueID: 0
     locked: 0
